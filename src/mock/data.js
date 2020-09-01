@@ -52,13 +52,13 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: "dayplanner.png",
-    title: "Day Planner",
+    img: "passwordgenerator.png",
+    title: "Password Generator",
     info:
-      "A simple calendar application that allows the user to save events for each hour of the day.",
+      "An application that can generate strong passwords quickly and effortlessly. It saves people's time and ensures secure access to data.",
     info2: "",
-    url: "https://kaghera.github.io/Day-Planner/",
-    repo: "https://github.com/Kaghera/Day-Planner",
+    url: "https://kaghera.github.io/Password-Generator/",
+    repo: "https://github.com/Kaghera/Password-Generator",
   },
 ];
 
