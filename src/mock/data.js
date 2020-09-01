@@ -50,16 +50,6 @@ export const projectsData = [
     url: "https://kaghera.github.io/Day-Planner/",
     repo: "https://github.com/Kaghera/Day-Planner",
   },
-  {
-    id: nanoid(),
-    img: "generator.png",
-    title: "Password Generator",
-    info:
-      "An application that can generate strong passwords quickly and effortlessly. It saves people's time and ensures secure access to data.",
-    info2: "",
-    url: "https://kaghera.github.io/Password-Generator/",
-    repo: "https://github.com/Kaghera/Password-Generator",
-  },
 ];
 
 // CONTACT DATA
