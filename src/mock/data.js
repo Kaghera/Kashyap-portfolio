@@ -25,7 +25,7 @@ export const aboutData = {
   paragraphThree:
     "Always eager to learn new skills and knowledge related programming that I can share with the world to utilize.",
   resume:
-    "https://docs.google.com/document/d/1hRItpmaSVKwzzA6ITeO0IIN3kXx9FZEE0u-w2cJLKXI/edit?usp=sharing", // if no resume, the button will not show up
+    "https://docs.google.com/document/d/1hRItpmaSVKwzzA6ITeO0IIN3kXx9FZEE0u-w2cJLKXI/edit?usp=sharing",
 };
 
 // PROJECTS DATA
@@ -38,7 +38,7 @@ export const projectsData = [
       "“What’s In My Fridge” is an easy to use application that grants any novice chef or culinary hobbyist a wide range of delectable recipes made from any of the ingredients found in their fridge.",
     info2: "",
     url: "https://kaghera.github.io/Recipe_API/",
-    repo: "https://github.com/Kaghera/Recipe_API", // if no repo, the button will not show up
+    repo: "https://github.com/Kaghera/Recipe_API",
   },
   {
     id: nanoid(),
@@ -48,7 +48,17 @@ export const projectsData = [
       "A simple calendar application that allows the user to save events for each hour of the day.",
     info2: "",
     url: "https://kaghera.github.io/Day-Planner/",
-    repo: "https://github.com/Kaghera/Day-Planner", // if no repo, the button will not show up
+    repo: "https://github.com/Kaghera/Day-Planner",
+  },
+  {
+    id: nanoid(),
+    img: "password_generator.png",
+    title: "Password Generator",
+    info:
+      "An application that can generate strong passwords quickly and effortlessly. It saves people's time and ensures secure access to data.",
+    info2: "",
+    url: "https://kaghera.github.io/Password-Generator/",
+    repo: "https://github.com/Kaghera/Password-Generator",
   },
 ];
 
@@ -57,6 +67,7 @@ export const contactData = {
   cta: "",
   btn: "Let's Connect!",
   email: "kashyapaghera@gmail.com",
+  phone: "000-000-0000",
 };
 
 // FOOTER DATA
