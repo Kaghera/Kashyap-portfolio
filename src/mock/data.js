@@ -52,7 +52,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: "passwordgenerator.png",
+    img: "../images/passwordgenerator.png",
     title: "Password Generator",
     info:
       "An application that can generate strong passwords quickly and effortlessly. It saves people's time and ensures secure access to data.",
