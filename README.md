@@ -1,4 +1,4 @@
-![Uploading portfolio.gif…]()
+![portfolio](https://user-images.githubusercontent.com/63524583/91800790-aa031680-ebf7-11ea-9164-69eb66b197bc.gif)
 
 ### Application Link: https://kashyapaghera.netlify.app/
 
