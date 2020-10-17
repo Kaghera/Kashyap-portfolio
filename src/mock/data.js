@@ -25,7 +25,7 @@ export const aboutData = {
   paragraphThree:
     "Always eager to learn new skills and knowledge related programming that I can share with the world to utilize.",
   resume:
-    "https://docs.google.com/document/d/1hRItpmaSVKwzzA6ITeO0IIN3kXx9FZEE0u-w2cJLKXI/edit?usp=sharing",
+    "https://docs.google.com/document/d/1z-BxhHD5Cu-aNbMkFEP4_syzfFkmf2lxBaXbZZgjg-0/edit?usp=sharing",
 };
 
 // PROJECTS DATA
@@ -49,6 +49,16 @@ export const projectsData = [
     info2: "",
     url: "https://kaghera.github.io/Day-Planner/",
     repo: "https://github.com/Kaghera/Day-Planner",
+  },
+  {
+    id: nanoid(),
+    img: "goads.com",
+    title: "goAds.com",
+    info:
+      "An online classified advertising services platform which allows users to exchange goods and services. Perfect marketplace to buy and sell products locally.",
+    info2: "",
+    url: "https://fathomless-hollows-88186.herokuapp.com/",
+    repo: "https://github.com/Kaghera/goAds.com",
   },
 ];
 
