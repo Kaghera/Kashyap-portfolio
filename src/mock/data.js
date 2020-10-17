@@ -42,7 +42,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: "goads.jpg",
+    img: "goads.png",
     title: "goAds.com",
     info:
       "An online classified advertising services platform which allows users to exchange goods and services. Perfect marketplace to buy and sell products locally.",
