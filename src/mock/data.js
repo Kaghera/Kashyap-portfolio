@@ -52,14 +52,14 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: "goads.com",
+    img: "goads.png",
     title: "goAds.com",
     info:
       "An online classified advertising services platform which allows users to exchange goods and services. Perfect marketplace to buy and sell products locally.",
     info2: "",
     url: "https://fathomless-hollows-88186.herokuapp.com/",
     repo: "https://github.com/Kaghera/goAds.com",
-  },
+  }
 ];
 
 // CONTACT DATA
