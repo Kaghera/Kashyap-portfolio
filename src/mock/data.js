@@ -42,6 +42,16 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: "goads.png",
+    title: "goAds.com",
+    info:
+      "An online classified advertising services platform which allows users to exchange goods and services. Perfect marketplace to buy and sell products locally.",
+    info2: "",
+    url: "https://fathomless-hollows-88186.herokuapp.com/",
+    repo: "https://github.com/Kaghera/goAds.com",
+  },
+  {
+    id: nanoid(),
     img: "dayplanner.png",
     title: "Day Planner",
     info:
@@ -50,16 +60,7 @@ export const projectsData = [
     url: "https://kaghera.github.io/Day-Planner/",
     repo: "https://github.com/Kaghera/Day-Planner",
   },
-  {
-    id: nanoid(),
-    img: "../images/goads.png",
-    title: "goAds.com",
-    info:
-      "An online classified advertising services platform which allows users to exchange goods and services. Perfect marketplace to buy and sell products locally.",
-    info2: "",
-    url: "https://fathomless-hollows-88186.herokuapp.com/",
-    repo: "https://github.com/Kaghera/goAds.com",
-  }
+ 
 ];
 
 // CONTACT DATA
